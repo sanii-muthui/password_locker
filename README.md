@@ -1,5 +1,5 @@
 ## project-name
-- Password_Locker
+Password_Locker
 
 ## project description
 password_locker is an application that helps users keep track of their personal 
