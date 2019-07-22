@@ -9,7 +9,7 @@ The user is able to created to create their platform either twitter, instagram, 
 or any other social platforms and the application is able to store their details and 
 display them.
 ## project Author
- By Daniel Muthui
+ Daniel Muthui
 ## BDD
 | Input                                       | Output                                              |
 |:------------------------------------------: | --------------------------------------------------: |                          
@@ -39,6 +39,6 @@ display them.
 ## Technologies used
 - Python3.7
 ## Contact Details
-please contact muthuisanii@gmail.com for any support regarding the project
+please contact [muthuisanii@gmail.com] for any support regarding the project
 ## License
-Copyright (c) {2019} sanii-muthui
+Copyright (c) {2019} sanii-muthui (ihub)
