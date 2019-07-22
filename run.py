@@ -11,11 +11,11 @@ def create_user(email, password):
     return new_user
 
 
-def create_credential(pword, email):
+def create_credential(e_password, email):
     """
     Function to create new user credentials
     """
-    new_credential = Credential(pword, email)
+    new_credential = Credential(e_password, email)
     return new_credential
 
 
