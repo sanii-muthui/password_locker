@@ -8,8 +8,8 @@ class User:
     users_array = [] #empty list of accounts
 
     def __init__(self, email, password):
-        self.email = email
-        self.password = password
+        self.email = email #email address
+        self.password = password #password
 
     def save_user_details(self):
         """
