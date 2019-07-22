@@ -4,7 +4,7 @@ class Credential:
     a class that generates new credential for users
     """
     pass
-    credential_array = []
+    credential_array = [] #empty array
 
     def __init__(self, password, email):
         self.email = email
