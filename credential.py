@@ -1,3 +1,4 @@
+#credential class
 class Credential:
     """
     a class that generates new credential for users
